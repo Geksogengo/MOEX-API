@@ -27,7 +27,7 @@ void setup() {
         delay(1000);
     }
    WiFi.mode(WIFI_STA);
-   WiFiMulti.addAP("Geksogen", "zsbKSuatwVDrzUXLw7hu");
+   WiFiMulti.addAP("ggggg", "zPASSu");
 }
 
 void loop() {
