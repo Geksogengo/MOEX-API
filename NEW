@@ -5,8 +5,7 @@
 #include <ESP8266WiFiMulti.h>
 ESP8266WiFiMulti wifiMulti;
 #include <ESP8266HTTPClient.h>
-#define ssid "Geksogen"                                        
-#define password  "zsbKSuatwVDrzUXLw7hu" 
+#define ssid 
 #define USE_SERIAL Serial
 
 LiquidCrystal_I2C lcd(0x27, 20, 4);
